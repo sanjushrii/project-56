@@ -1,0 +1,14 @@
+body {
+    margin-left: 25px;
+    margin-right: 25px;
+    background-color: white;
+    text-align: center;
+}
+
+img {
+    display: flex;
+    justify-content: space-between;
+    width:500px;
+    text-align: center;
+    
+}
